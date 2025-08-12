@@ -1,6 +1,8 @@
 # AI, Machine Learning & Analytics | Marketing | Communications 
 
-I'm a professional with 25+ years of experience in **Marketing** and **Communications**,  focused on harnessing the power of **AI** and **Analytics** to drive business insights and solutions. I thrive on creating data-driven strategies that bridge the gap between marketing and technology.
+I'm a professional with 25+ years of experience in **Marketing** and **Communications**,  focused on harnessing the power of **AI** and **Analytics** to drive business insights and solutions. I thrive on creating data-driven strategies that bridge the gap between marketing and technology. 
+
+My AI / analytics experience reflects both the theoretical and applied aspects of analytics and AI. Notable work includes developing a churn model evaluating data imputation techniques, stock price prediction using ensemble methods, and signals extraction (NLP) from unstructured text leveraging LLMs, generative AI, prompt engineering and classification. Additionally, I have designed queuing simulations integrating image recognition and tracking with machine learning frameworks (PyTorch).
 
 ## 🚀 Projects
 - Customer churn prediction focused on approaches to handling missing data and a comparison of differing data imputation techniques and their impact on prediction outcomes. [Paper here](https://github.com/Robert-Carlton/Telco-Churn-Reduction)
