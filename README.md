@@ -5,7 +5,7 @@ I'm a professional with 25+ years of experience in **Marketing** and **Communica
 ## 🚀 Projects
 - Customer churn prediction focused on approaches to handling missing data and a comparison of differing data imputation techniques and their impact on prediction outcomes.
 - Drive-through simiulation focused on simple strategies for reducing drive-through tailback onto public roadways. [Paper here](https://github.com/RobertCProjects/Drive-through-Simulation-Study/blob/main/DriveThroughSimulation.pdf)
-- Stock price prediction modeling using ensemble models and technical, fundamental and social data.
+- Stock price prediction modeling using ensemble models and technical, fundamental and social data. [Poster here](https://github.com/Robert-Carlton/Stock-Price-Prediction/blob/main/team128poster.pdf)
 - Natural language processing focused on signals extraction from unstructured textual data leveraging large language models, prompt engineering and classification. [Paper here](https://github.com/Robert-Carlton/Signals-Extraction)
 
 ## 🔥 Some of my favorite repositories
