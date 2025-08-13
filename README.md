@@ -8,7 +8,7 @@ My AI / analytics experience reflects both the theoretical and applied aspects o
 - Customer churn prediction focused on approaches to handling missing data and a comparison of differing data imputation techniques and their impact on prediction outcomes. [Paper here](https://github.com/Robert-Carlton/Telco-Churn-Reduction/blob/main/README.md)
 - Drive-through simiulation focused on simple strategies for reducing drive-through tailback onto public roadways. [Paper here](https://github.com/Robert-Carlton/Drive-through-Simulation-Study/blob/main/README.md)
 - Stock price prediction modeling using ensemble models and technical, fundamental and social data. [Poster here](https://github.com/Robert-Carlton/Stock-Price-Prediction/blob/main/README.md)
-- Natural language processing focused on signals extraction from unstructured textual data leveraging large language models, prompt engineering and classification. [Paper here](https://github.com/Robert-Carlton/Signals-Extraction)
+- Natural language processing focused on signals extraction from unstructured textual data leveraging large language models, prompt engineering and classification. [Paper here](https://github.com/Robert-Carlton/Signals-Extraction/blob/main/README.md)
 
 ## 🔥 Some of my favorite repositories
 - [Awesome Data Science Repo](https://github.com/username/repo) - A great resource for data science tools.
