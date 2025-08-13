@@ -10,7 +10,7 @@ My AI / analytics experience reflects both the theoretical and applied aspects o
 - Stock price prediction modeling using ensemble models and technical, fundamental and social data. [Poster here](https://github.com/Robert-Carlton/Stock-Price-Prediction/blob/main/README.md)
 - Natural language processing focused on signals extraction from unstructured textual data leveraging large language models, prompt engineering and classification. [Paper here](https://github.com/Robert-Carlton/Signals-Extraction/blob/main/README.md)
 
-## 🔥 Some of my favorite repositories
+## 🔥 Some of my favorite repos
 - [Awesome Data Science Repo](https://github.com/username/repo) - A great resource for data science tools.
 - [Curated List of ML System Design Studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies) - Three hundred ML system design examples
 - [Awesome RAG Repo](https://github.com/NirDiamant/RAG_Techniques) - List of RAG approaches.
