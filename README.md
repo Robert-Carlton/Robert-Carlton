@@ -12,6 +12,7 @@ My AI / analytics experience reflects both the theoretical and applied aspects o
 
 ## 🔥 Some of my favorite repos
 - [Awesome Data Science Repo](https://github.com/username/repo) - A great resource for data science tools.
+- [Open LLM Tools](https://github.com/underlines/awesome-ml/blob/master/llm-tools.md#native-guis) - A long list of various open LLM tools.
 - [Curated List of ML System Design Studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies) - Three hundred ML system design examples
 - [Awesome RAG Repo](https://github.com/NirDiamant/RAG_Techniques) - List of RAG approaches.
 - [Machine Learning Tutorials](https://github.com/username/repo) - A collection of ML tutorials.
