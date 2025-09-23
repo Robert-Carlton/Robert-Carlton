@@ -20,6 +20,7 @@ My AI / analytics experience reflects both the theoretical and applied aspects o
 - [Awesome LLM Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - This is a collection of research papers & blogs for OpenAI Strawberry(o1) and Reasoning.
 - [GeoStatsGuy](https://github.com/GeostatsGuy) - Great collection of geo-analytics worksflows.
 - [Anthropics Educational Courses](https://github.com/anthropics/courses/tree/master) - Five courses from Anthropic primarily focused on prompting.
+- [1000+ Postgress Extensions](https://gist.github.com/joelonsql/e5aa27f8cc9bd22b8999b7de8aee9d47) - Postgress extensions galore for when you need Postgress to do more!
 
 ## 🌍 Current interests
 - Generative AI
