@@ -31,6 +31,8 @@ My AI / analytics experience reflects both the theoretical and applied aspects o
 - Signal extraction from unstructed inputs using LLMs, leveraging prompt engineering techniques and classification
 - Geo-analytics 
 - Machine learning applied to sound modeling (see [Helix](https://www.line6.com) and [Neural Quad Cortex](https://www.neuraldsp.com))
+- AI Tools for communications and marketing
+- 🔥 my new PR Tools for Claude Cowork plugin [get it here](https://github.com/Robert-Carlton/AI-Built-for-Comms-Pros/wiki)
 
 ## 📫 Let's connect!
 
