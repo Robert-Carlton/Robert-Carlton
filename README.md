@@ -23,7 +23,10 @@ My AI / analytics experience reflects both the theoretical and applied aspects o
 - [1000+ Postgress Extensions](https://gist.github.com/joelonsql/e5aa27f8cc9bd22b8999b7de8aee9d47) - Postgress extensions galore for when you need Postgress to do more!
 - [LLM Supervised Fine Tuning (SFT) Datasets for specific domains](https://github.com/mlabonne/llm-datasets) - A curated set of supervised fine-tuning datasets for general purpose, mathematical, coding, instruction following and few other domain specific SFT datasets.
 - [LLM Course](https://github.com/mlabonne/llm-course) - A short course on LLM engineering. Great if you want to dig into the details of LLMs and be able to build/modify your own-some theory and lots of code.
-- [LLM Alignment Course](https://github.com/huggingface/smol-course) - A short HuggingFace course on aligning LLMs to your specific needs, with a focus on SmolLM3, but applicable to other, larger LLMs. 
+- [LLM Alignment Course](https://github.com/huggingface/smol-course) - A short HuggingFace course on aligning LLMs to your specific needs, with a focus on SmolLM3, but applicable to other, larger LLMs.
+- [Awesome Agentic Advertising](https://github.com/mharnett/awesome-agentic-advertising) - A curated list of tools, MCP servers, protocols, and resources for AI-powered advertising campaign management.
+- [SEO Machine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business.
+- [Officil MCP Registry](https://registry.modelcontextprotocol.io/) - Great place to discover MCP servers
 
 ## 🌍 Current interests
 - Generative AI
