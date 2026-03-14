@@ -9,6 +9,7 @@ My AI / analytics experience reflects both the theoretical and applied aspects o
 - Drive-through simulation focused on simple strategies for reducing drive-through tailback onto public roadways. [Paper here](https://github.com/Robert-Carlton/Drive-through-Simulation-Study/blob/main/README.md)
 - Stock price prediction modeling using ensemble models and technical, fundamental and social data. [Poster here](https://github.com/Robert-Carlton/Stock-Price-Prediction/blob/main/README.md)
 - Natural language processing focused on signals extraction from unstructured textual data leveraging large language models, prompt engineering and classification. [Paper here](https://github.com/Robert-Carlton/Signals-Extraction/blob/main/README.md)
+- Specialized Claude Cowork tools for Public Relations professionals [AI Built For Comms Pros](https://github.com/Robert-Carlton/AI-Built-for-Comms-Pros)
 
 ## 🔥 Some of my favorite repos
 - [Awesome Data Science Repo](https://github.com/username/repo) - A great resource for data science tools.
