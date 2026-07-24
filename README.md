@@ -11,11 +11,12 @@ The résumé below is my complete professional background — marketing, communi
 **[View my full résumé →](./RESUME.md)**
 
 ## 🚀 Projects
-- Customer churn prediction focused on approaches to handling missing data and a comparison of differing data imputation techniques and their impact on prediction outcomes. [Paper here](https://github.com/Robert-Carlton/Telco-Churn-Reduction/blob/main/README.md)
-- Drive-through simulation focused on simple strategies for reducing drive-through tailback onto public roadways. [Paper here](https://github.com/Robert-Carlton/Drive-through-Simulation-Study/blob/main/README.md)
-- Stock price prediction modeling using ensemble models and technical, fundamental and social data. [Poster here](https://github.com/Robert-Carlton/Stock-Price-Prediction/blob/main/README.md)
-- Natural language processing focused on signals extraction from unstructured textual data leveraging large language models, prompt engineering and classification. [Paper here](https://github.com/Robert-Carlton/Signals-Extraction/blob/main/README.md)
-- Specialized Claude Cowork tools for Public Relations professionals [AI Built For Comms Pros](https://github.com/Robert-Carlton/AI-Built-for-Comms-Pros)
+
+- **Telco churn prediction** — Compared three missing-data imputation techniques and six classification models on 7,043 telecom customers to predict churn; best model reached 76.81% accuracy, with model lift translated directly into retained customer lifetime value. [Paper here](https://github.com/Robert-Carlton/Telco-Churn-Reduction/blob/main/README.md)
+- **Drive-through simulation** — Built a discrete-event simulation (ARENA) of real-world drive-thru queues, validated against live video data, showing that adding just half a staff member cuts roadway-safety incidents by over 95%. [Paper here](https://github.com/Robert-Carlton/Drive-through-Simulation-Study/blob/main/README.md)
+- **Stock price prediction (Market Maven)** — Team-built an AutoML-tuned ensemble forecasting tool (ARIMA, Gradient Boosting, Bayesian Ridge, and others) blending technical, fundamental, social, and PESTEL data — found no single model wins across all stocks. [Poster here](https://github.com/Robert-Carlton/Stock-Price-Prediction/blob/main/README.md)
+- **Signals extraction / knowledge distillation** — 3-person Georgia Tech team project distilling a large labeling LLM into a lightweight model extracting job requirements from 1.2M+ postings — 99% Hamming accuracy at 19ms inference, with no LLM API dependency at runtime. [Paper here](https://github.com/Robert-Carlton/Signals-Extraction/blob/main/README.md)
+- **PR Tools** — An agentic AI plugin encoding 25+ years of PR/media-relations expertise into an automated press-pitching workflow, from news-value assessment through pitch drafting and coverage reporting — no code or API keys required. [AI Built For Comms Pros](https://github.com/Robert-Carlton/AI-Built-for-Comms-Pros)
 
 ## 🔥 Some of my favorite repos
 - [Awesome Data Science Repo](https://github.com/username/repo) - A great resource for data science tools.
