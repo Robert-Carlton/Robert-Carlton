@@ -64,6 +64,23 @@ Recruited directly by the CEO to reverse declining performance and rebuild publi
 - Built and executed a content and social media strategy across owned platforms — driving a 200% increase in Twitter followers and 78%+ growth in website traffic — and conceived the railroad industry's 1st live global safety broadcast; launched real-time broadcasting of Board meetings, increasing transparency six months ahead of a legislative deadline.
 - Consolidated Customer Service management into a single, centrally reporting organization and streamlined design/printing services; directed online enhancements including GTFS integration, real-time train tracker upgrades, and a transition to an ESRI mapping solution saving ~$1.2M annually.
 
+### Vice President / Director, Global Branding & Marketing Communications — Owens-Illinois, Inc. (O-I), Toledo, OH — 2010–2011
+
+Recruited for brand strategy & global campaign management expertise; led a 2-person global branding team against a $10M campaign budget for the #1 glass packaging manufacturer, with facilities in 21 countries and 22,000 employees.
+
+- Reframed the public narrative around glass packaging — from a commodity material to a story of presentation value, sustainability, and emotional appeal — through integrated messaging, media relations, and content across markets in 21 countries; launched new B2B packaging brands globally, including the acclaimed Vortex swirled-bottle product line.
+- Directed messaging, media relations, and content strategy for the multi-million-dollar "Glass Is Life" global campaign — a fully integrated storytelling effort across print, digital, social, and events reaching B2B and B2C audiences in 21 countries.
+- Directed messaging and stakeholder engagement strategy on strategic corporate initiatives (life cycle analysis); served as global interface for glass-related government & industry organizations, including FEVE (European Glass Packaging Federation) and GPI (Glass Packaging Institute).
+
+### Chief Marketing & Communications Officer / Founder — Zimini Inc. (A Microsoft® BizSpark® startup), Chicago, IL — 2006–2010
+
+Direct investment, product development, business development, technology strategy & investment, and marketing/go-to-market strategy for the startup that developed digital promotion and marketing software.
+
+- Conceptualized & launched the startup venture — built the team (management, marketing, sales/business development, accounting/finance, product development, and legal) to bring the product from concept to market launch.
+- Invented an early acquisition-marketing targeting technology — a proprietary geographic/"big data" algorithm enabling marketers to target and acquire prospective customers along 250+ demographic, psychographic, behavioral, location, and activity-based criteria — years ahead of today's programmatic audience-targeting platforms.
+- Recruited a U.S. & foreign-based development team; launched the software product at the DEMO 2006 Emerging Technology Conference, and was named one of "Nine DEMO Companies to Watch."
+- Earned recognition on Fortune Radio's "100 Best Products & Services," and positive reviews in the Wall St. Journal and Chicago Sun-Times.
+
 ### Director, External Communications — McDonald's Corporation, Oak Brook, IL — 2004–2005
 
 Recruited amid the "Super Size Me" controversy to direct U.S. external communications, stakeholder engagement, and brand-building programs, leading a 7-person team on a $15M budget that generated 1.1+ billion media impressions through product-launch, brand-positioning, and national P.R./multicultural media relations campaigns. Responsibilities included P.R., external communications, stakeholder engagement, celebrity endorsement & spokesperson strategy, multicultural communications, and advising the U.S. Leadership Team.
@@ -90,14 +107,6 @@ Recruited from the telecom industry to identify how Intel could enter the teleco
 - Led "Marquee 100," a global program challenging Sun Microsystems' dominance of the internet infrastructure market — organizing Intel's assets by vertical, backed by global competitive intelligence and segment-specific marketing; Intel prevailed in the segment during this period, and Sun was later acquired by Oracle.
 - Enhanced the event planning process by creating a center of excellence for event planning and execution.
 
-### Vice President / Director, Global Branding & Marketing Communications — Owens-Illinois, Inc. (O-I), Toledo, OH — 2010–2011
-
-Recruited for brand strategy & global campaign management expertise; led a 2-person global branding team against a $10M campaign budget for the #1 glass packaging manufacturer, with facilities in 21 countries and 22,000 employees.
-
-- Reframed the public narrative around glass packaging — from a commodity material to a story of presentation value, sustainability, and emotional appeal — through integrated messaging, media relations, and content across markets in 21 countries; launched new B2B packaging brands globally, including the acclaimed Vortex swirled-bottle product line.
-- Directed messaging, media relations, and content strategy for the multi-million-dollar "Glass Is Life" global campaign — a fully integrated storytelling effort across print, digital, social, and events reaching B2B and B2C audiences in 21 countries.
-- Directed messaging and stakeholder engagement strategy on strategic corporate initiatives (life cycle analysis); served as global interface for glass-related government & industry organizations, including FEVE (European Glass Packaging Federation) and GPI (Glass Packaging Institute).
-
 ### GTE Corporation — Manager, Web Commerce Strategy / Manager, Customer Retention & Winback / Manager, Corporate Programs, GTE Airfone / Product Specialist, Network & CPE Products — Ft. Wayne, IN; Chicago, IL; & Dallas, TX — 1995–2000
 
 Began in the company's local phone service division marketing telecom service to small/medium businesses; later led product marketing in the air-to-ground division, then was promoted to the corporate parent to lead GTE's foray into e-commerce across five business units.
@@ -111,10 +120,11 @@ Began in the company's local phone service division marketing telecom service to
 
 ## Education
 
-- M.S., Analytics, Georgia Institute of Technology (2025)
+- M.S., Analytics (Computational Data Analytics), Georgia Institute of Technology (2025)
 - M.S., Strategic Communication, Purdue University Graduate School (2020)
 - B.S., Marketing, Missouri State University
 
 ## Professional Affiliations
 
 National Association of Government Communicators · Chief Marketing Officer Council · Chief Marketing Officer Club · Public Relations Society of America
+
