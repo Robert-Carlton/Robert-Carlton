@@ -4,7 +4,7 @@ That combination is rarer than it sounds. Most marketing/comms leaders who are f
 
 ## 🤝 How I Can Help
 
-I take on a range of engagements — from fractional advisory through Muddy Gecko to full-time executive leadership — matched to where I can add the most value.
+I take on a range of engagements — from fractional advisory and execution to full-time executive leadership — matched to where I can add the most value.
 
 **Fractional & advisory**: outsourced CMO/CCO leadership, board-level strategic advisory, M&A-phase positioning and communications, brand/reputation crisis advisory, and AI/analytics strategy consulting — typically for venture-backed companies at inflection points, publicly traded companies in confidential transitions, or organizations building AI capability into marketing/comms.
 
