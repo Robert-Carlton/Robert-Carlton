@@ -111,7 +111,7 @@ Began in the company's local phone service division marketing telecom service to
 
 ## Education
 
-- M.S., Analytics (Computational Data Analytics), Georgia Institute of Technology (2025)
+- M.S., Analytics, Georgia Institute of Technology (2025)
 - M.S., Strategic Communication, Purdue University Graduate School (2020)
 - B.S., Marketing, Missouri State University
 
