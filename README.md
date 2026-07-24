@@ -1,8 +1,8 @@
 # AI, Machine Learning & Analytics | Marketing | Communications 
 
-I'm a professional with 25+ years of experience in **Marketing** and **Communications**,  focused on harnessing the power of **AI** and **Analytics** to drive business insights and solutions. I thrive on creating data-driven strategies that bridge the gap between marketing and technology. 
+I'm a marketing and communications executive with 25+ years of experience — including CMO/CCO-level roles at Intel, McDonald's, Owens-Illinois, and Metra — now paired with hands-on, graduate-level training in AI, machine learning, and analytics (M.S. Analytics, Georgia Tech).
 
-My AI / analytics experience reflects both the theoretical and applied aspects of analytics and AI. Notable work includes developing a churn model evaluating data imputation techniques, stock price prediction using ensemble methods, and signals extraction (NLP) from unstructured text leveraging LLMs, generative AI, prompt engineering and classification. Additionally, I have designed queuing simulations integrating image recognition and tracking with machine learning frameworks.
+That combination is rarer than it sounds. Most marketing/comms leaders who are fluent in AI and analytics came up through narrow, metrics-native tracks (SEO, paid acquisition, growth) without ever building full-spectrum brand, crisis, and stakeholder judgment. Most executives who have that full-spectrum judgment have never gotten hands-on with the technical side of AI. I spent the last few years deliberately building the second half — applied machine learning, generative AI, and agentic AI tooling — documented in the projects below.
 
 ## 🚀 Projects
 - Customer churn prediction focused on approaches to handling missing data and a comparison of differing data imputation techniques and their impact on prediction outcomes. [Paper here](https://github.com/Robert-Carlton/Telco-Churn-Reduction/blob/main/README.md)
