@@ -1,8 +1,17 @@
-# AI, Machine Learning & Analytics | Marketing | Communications 
-
 I'm a marketing and communications executive with 25+ years of experience — including CMO/CCO-level roles at Intel, McDonald's, Owens-Illinois, and Metra — now paired with hands-on, graduate-level training in AI, machine learning, and analytics (M.S. Analytics, Georgia Tech).
 
 That combination is rarer than it sounds. Most marketing/comms leaders who are fluent in AI and analytics came up through narrow, metrics-native tracks (SEO, paid acquisition, growth) without ever building full-spectrum brand, crisis, and stakeholder judgment. Most executives who have that full-spectrum judgment have never gotten hands-on with the technical side of AI. I spent the last few years deliberately building the second half — applied machine learning, generative AI, and agentic AI tooling — documented in the projects below.
+
+## 🤝 How I Can Help
+
+I take on a range of engagements — from fractional advisory through Muddy Gecko to full-time executive leadership — matched to where I can add the most value.
+
+**Fractional & advisory** (via Muddy Gecko): outsourced CMO/CCO leadership, board-level strategic advisory, M&A-phase positioning and communications, brand/reputation crisis advisory, and AI/analytics strategy consulting — typically for venture-backed companies at inflection points, publicly traded companies in confidential transitions, or organizations building AI capability into marketing/comms.
+
+**Full-time executive roles**: also open to full-time CMO, CCO, or combined CMO/CCO leadership at organizations navigating brand, reputation, or communications complexity at scale — particularly where real AI/analytics fluency is a differentiator, not a checkbox. Given the confidential nature of executive searches, I won't detail specific active conversations here, but I'm genuinely evaluating opportunities at this level.
+
+Reach out via [LinkedIn](https://linkedin.com/in/robertcarlton) — happy to talk through fit either way.
+
 
 ## 📄 Full Résumé
 
