@@ -46,44 +46,68 @@ Client engagements have included (client identities generalized below to protect
 
 ### Chief Marketing & Communications Officer — Northeast Illinois Regional Commuter Railroad Corp. (Metra), Chicago, IL — 2012–2015
 
-Recruited directly by the CEO to reverse declining performance and rebuild public trust for this ~$2B public agency — the 2nd largest commuter rail system in the U.S.; directed a 37-person marketing & communications organization.
+Recruited directly by the CEO to reverse declining performance and rebuild public trust for this ~$2B public agency — the 2nd largest commuter rail system in the U.S.; directed a 37-person marketing & communications organization on a sub-$500K departmental budget, overseeing marketing, branding, external communications and stakeholder engagement, P.R. & media, advertising & media buying, ticket services, web, social media, customer and passenger service, and design/printing services.
 
-- Rebuilt the agency's public narrative through a new brand identity, message platform, and sustained storytelling strategy — moving public/media sentiment from -100% to -28%, a 70-point improvement, and driving the 2nd highest ridership in agency history.
-- Built the crisis communications plan and personally led its activation for the 2012 NATO Summit in Chicago — one of the largest security operations in recent U.S. history — coordinating directly with local authorities, the FBI, and the U.S. Secret Service.
-- Advised the CEO on spokesperson strategy following a train accident carrying catastrophic potential, where the right messenger, message, and tone were critical given the risk of federal investigation and heightened safety scrutiny — keeping what could have become a full-blown crisis a managed situation.
+- Rebuilt the agency's public narrative through a new brand identity, message platform, and sustained storytelling strategy — reversing years of negative coverage and repositioning the agency with riders, media, and legislators.
+- Transformed communications from a reactive, passive organization into a proactive External Communications and Stakeholder Engagement organization, moving public/media sentiment from -100% to -28%, a 70-point improvement.
+- Reinvigorated the marketing organization with new campaigns, a new brand identity, and a new brand tagline, "Metra Makes Life Easier," based on consumer research — driving the 2nd highest ridership in agency history.
+- Implemented a process to accelerate new product development and fare-product innovation, introducing more new products than at any prior point in the agency's history; developed a cross-functional market planning process and instituted an annual customer research program.
+- Designed and launched a new-customer acquisition strategy built around branded ticket products tied to major sporting/entertainment events — a low-cost, low-risk trial mechanism converting non-riders into new customers — acquiring ~100,000 new riders annually and growing revenue.
+- Directed non-fare revenue strategy — new advertising platforms, naming rights, and ticket sponsorships — growing non-fare revenues 165%.
+- Developed and executed annual marketing campaigns directly tied to 26 consecutive months of ridership and revenue growth (YOY gains in 24 of 36 months); campaigns earned two ADDY awards.
+- Conceived the "Metra@Work" campaign — an authentic, blue-collar look at the railroad's behind-the-scenes operations (railcar refurbishment, the rail monitoring center, and other rarely seen infrastructure) — to help legislators and consumers understand the true scope, scale, and cost of running the railroad.
 - Developed messaging and financial communications strategy for the annual budget process, leading stakeholder roadshows with state/county legislators, NGOs, and planning commissions to secure state funding.
-- Conceived the "Metra@Work" campaign — an authentic, blue-collar look at the railroad's behind-the-scenes operations — to help legislators and consumers understand the true scope, scale, and cost of running the railroad.
-- Directed non-fare revenue strategy and new acquisition-driven ticket products, growing non-fare revenue 165% and acquiring ~100,000 new riders annually.
-- Built and executed a content and social media strategy driving 200% growth in Twitter followers and 78%+ growth in website traffic; conceived the railroad industry's first live global safety broadcast.
+- Built the crisis communications plan and personally led its activation for the 2012 NATO Summit in Chicago — one of the largest security operations in recent U.S. history — coordinating directly with local authorities, the FBI, and the U.S. Secret Service.
+- Advised the CEO on spokesperson strategy following a train accident carrying catastrophic potential, where the right messenger, message, and tone were critical given the risk of federal investigation and heightened safety scrutiny — marshaling relationships across the agency's broader network to keep what could have become a full-blown crisis a managed situation.
+- Led the agency through several additional high-profile crises, including a critical review of Metra Police practices, fare policy changes, and a review of overtime practices and costs.
+- Built and sustained community engagement programs — the Annual Safety Poster Contest, Toys for Tots, Coat Drive, Safety Awareness Month, and a Chicago White Sox partnership — as a proactive reputation-management strategy building a reservoir of public goodwill.
+- Built and executed a content and social media strategy across owned platforms — driving a 200% increase in Twitter followers and 78%+ growth in website traffic — and conceived the railroad industry's 1st live global safety broadcast; launched real-time broadcasting of Board meetings, increasing transparency six months ahead of a legislative deadline.
+- Consolidated Customer Service management into a single, centrally reporting organization and streamlined design/printing services; directed online enhancements including GTFS integration, real-time train tracker upgrades, and a transition to an ESRI mapping solution saving ~$1.2M annually.
 
 ### Director, External Communications — McDonald's Corporation, Oak Brook, IL — 2004–2005
 
-Recruited amid the "Super Size Me" controversy to lead U.S. external communications and brand-building, leading a 7-person team on a $15M budget that generated 1.1+ billion media impressions through product-launch, brand-positioning, and national P.R./multicultural media relations campaigns.
+Recruited amid the "Super Size Me" controversy to direct U.S. external communications, stakeholder engagement, and brand-building programs, leading a 7-person team on a $15M budget that generated 1.1+ billion media impressions through product-launch, brand-positioning, and national P.R./multicultural media relations campaigns. Responsibilities included P.R., external communications, stakeholder engagement, celebrity endorsement & spokesperson strategy, multicultural communications, and advising the U.S. Leadership Team.
 
-- Built and executed a reputation-repair media relations strategy that reversed the company's negative employer narrative — driving a 158% increase in favorable media coverage.
-- In a two-week rapid response, identified and countered a legislative threat to a national workforce training pipeline serving the restaurant industry, protecting a pipeline within a $180B U.S. industry sector.
-- Directed the brand response to "Super Size Me" attacks on product quality — participating in senior leadership review sessions with the U.S. President and global COO — garnering 100M+ media impressions.
+- Built and executed a reputation-repair media relations strategy that reversed the company's negative employer narrative — driving a 158% increase in favorable media coverage through sustained press outreach and story pitching.
+- Led an external stakeholder and brand program improving the company's image with educators and moms, touching 350+ school districts, 31,000 schools, and 7 million children.
+- Directed the brand response to "Super Size Me" attacks on product quality — participating in senior leadership review-and-approval sessions with the U.S. President and global Chief Operating Officer — garnering 100M+ media impressions and demonstrating supply-chain safety and food-quality leadership.
+- Partnered directly with the global Chief Operating Officer on communications and activation strategy for major strategic product launches.
+- Earned $35M+ in media coverage advertising equivalency for Quality, Employment Image, "Go Active," and Ronald McDonald House Charities brand programs.
+- In a two-week rapid response, identified and countered a legislative threat to a national 4-H vocational training program serving as a major hiring pipeline for the restaurant industry — protecting a workforce pipeline within a $180B U.S. industry sector.
+- Led implementation of an industry symposium on food safety & quality, positioning McDonald's as a leader in the nation's food supply system.
+- Directed U.S. stakeholder engagement with industry groups, government entities, and NGOs, including multicultural marketing and media relations tailored to key consumer segments.
+- Managed celebrity relationships & endorsements; implemented an agency planning process driving greater integration across the firm's 13 P.R./marketing agency partners.
 
-### Director, Consumer Marketing / Group Marketing Manager, Corporate Marketing — Intel Corporation, Hillsboro, OR — 2000–2004
+### Director, Consumer Marketing / Group Marketing Manager, Corporate Marketing / Manager, Worldwide e-Business Development / Manager, Marketing & Strategy — Intel Corporation, Hillsboro, OR — 2000–2004
 
-Led consumer and corporate marketing initiatives, leading teams of up to 15 with budget responsibility up to $50M.
+Recruited from the telecom industry to identify how Intel could enter the telecom sector and define Intel's software & silicon opportunities — leading teams of up to 15 across roles with budget responsibility up to $50M.
 
-- At the direct request of then-CEO Andy Grove, built an executive speakers bureau for Intel's leadership team, partnering with former presidential speechwriters to develop a C-level coaching and message-delivery program.
-- Directed the narrative integration and external communications strategy for 18 acquired companies into a single, coherent brand story under Intel during a fast-moving M&A period representing over $20B in acquisition cost.
-- Built one of the earliest enterprise-wide CSR communications strategies at Intel — pillars that would later formalize into ESG — aligning Intel's global marketing, communications, product, and government affairs teams worldwide.
+- Led entry into the telecommunications sector — product roadmap, partner strategy, branding, positioning, and go-to-market execution — integrating marketing strategies across five business divisions.
+- Directed the narrative integration and external communications strategy for 18 acquired companies — aligning positioning, spokesperson materials, and media engagement into a single, coherent brand story under Intel during a fast-moving M&A period representing over $20B in acquisition cost.
+- Oversaw consumer marketing programs with a combined reach of 500M+, utilizing television, print, online, word-of-mouth, and event marketing.
+- At the direct request of then-CEO Andy Grove, built an executive speakers bureau for Intel's leadership team — partnering with former presidential speechwriters (Reagan and Bush administrations) to develop a C-level coaching and message-delivery program, then matching executives to thousands of industry speaking opportunities.
+- Built one of the earliest enterprise-wide CSR communications strategies at Intel — messaging on global community impact across environmental health & safety, education, community relations, diversity, and workforce practices (pillars that would later formalize into ESG) — aligning Intel's global marketing, communications, product, and government affairs teams worldwide.
+- Led "Marquee 100," a global program challenging Sun Microsystems' dominance of the internet infrastructure market — organizing Intel's assets by vertical, backed by global competitive intelligence and segment-specific marketing; Intel prevailed in the segment during this period, and Sun was later acquired by Oracle.
+- Enhanced the event planning process by creating a center of excellence for event planning and execution.
 
 ### Vice President / Director, Global Branding & Marketing Communications — Owens-Illinois, Inc. (O-I), Toledo, OH — 2010–2011
 
-Led a global rebranding campaign for the #1 glass packaging manufacturer, with facilities in 21 countries and 22,000 employees.
+Recruited for brand strategy & global campaign management expertise; led a 2-person global branding team against a $10M campaign budget for the #1 glass packaging manufacturer, with facilities in 21 countries and 22,000 employees.
 
-- Reframed the public narrative around glass packaging — from a commodity material to a story of presentation value, sustainability, and emotional appeal — across markets in 21 countries.
-- Directed the multi-million-dollar "Glass Is Life" global campaign — a fully integrated storytelling effort across print, digital, social, and events.
-- Served as global interface to European and international industry and government organizations, influencing positions on regulatory and policy matters.
+- Reframed the public narrative around glass packaging — from a commodity material to a story of presentation value, sustainability, and emotional appeal — through integrated messaging, media relations, and content across markets in 21 countries; launched new B2B packaging brands globally, including the acclaimed Vortex swirled-bottle product line.
+- Directed messaging, media relations, and content strategy for the multi-million-dollar "Glass Is Life" global campaign — a fully integrated storytelling effort across print, digital, social, and events reaching B2B and B2C audiences in 21 countries.
+- Directed messaging and stakeholder engagement strategy on strategic corporate initiatives (life cycle analysis); served as global interface for glass-related government & industry organizations, including FEVE (European Glass Packaging Federation) and GPI (Glass Packaging Institute).
 
-### GTE Corporation — Manager, Web Commerce Strategy / Manager, Customer Retention & Winback / Product Specialist — 1995–2000
+### GTE Corporation — Manager, Web Commerce Strategy / Manager, Customer Retention & Winback / Manager, Corporate Programs, GTE Airfone / Product Specialist, Network & CPE Products — Ft. Wayne, IN; Chicago, IL; & Dallas, TX — 1995–2000
 
-- Built a data-driven retention marketing program at GTE Long Distance, using predictive at-risk scoring to trigger proactive save offers — recovering $45M in revenue by cutting churn 37% in under a year.
-- Led a web commerce strategy integrating five core business units into a single corporate commerce site, growing e-commerce revenue 800%.
+Began in the company's local phone service division marketing telecom service to small/medium businesses; later led product marketing in the air-to-ground division, then was promoted to the corporate parent to lead GTE's foray into e-commerce across five business units.
+
+- Built GTE's earliest digital acquisition channel — a web commerce strategy integrating five core business units into a single corporate commerce site — growing e-commerce revenue 800% and increasing billings and online orders more than nine-fold.
+- As Product Specialist, Network & CPE Products, directed sales/marketing strategy for a 200-person call center to increase conversion/take-rates of non-core network services, and built a dedicated small-business retention team — backed by a $5M budget for program implementation, training, and tools.
+- As Manager, Customer Retention & Winback, built a data-driven retention marketing program — using predictive at-risk scoring to trigger proactive save offers before customers churned — recovering $45M in revenue by cutting customer churn 37% in under a year.
+- Redesigned customer acquisition marketing communication materials, resulting in a 30% decrease in new customer complaints.
+- Developed and implemented the Loyal Customer Bonus Program — a targeted retention offer protecting high-value customer lifetime value — reducing high-value customer attrition by 85%.
+- Built and ran a lifecycle/retention marketing program — segmented by customer value tier across email, direct mail, and loyalty touchpoints — reducing annual attrition 15%.
 
 ## Education
 
