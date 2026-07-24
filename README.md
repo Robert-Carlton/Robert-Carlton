@@ -4,6 +4,12 @@ I'm a marketing and communications executive with 25+ years of experience — in
 
 That combination is rarer than it sounds. Most marketing/comms leaders who are fluent in AI and analytics came up through narrow, metrics-native tracks (SEO, paid acquisition, growth) without ever building full-spectrum brand, crisis, and stakeholder judgment. Most executives who have that full-spectrum judgment have never gotten hands-on with the technical side of AI. I spent the last few years deliberately building the second half — applied machine learning, generative AI, and agentic AI tooling — documented in the projects below.
 
+## 📄 Full Résumé
+
+The résumé below is my complete professional background — marketing, communications, and applied AI/analytics work across my full career. If you received a version tailored to a specific role, this is the fuller picture behind it.
+
+**[View my full résumé →](./RESUME.md)**
+
 ## 🚀 Projects
 - Customer churn prediction focused on approaches to handling missing data and a comparison of differing data imputation techniques and their impact on prediction outcomes. [Paper here](https://github.com/Robert-Carlton/Telco-Churn-Reduction/blob/main/README.md)
 - Drive-through simulation focused on simple strategies for reducing drive-through tailback onto public roadways. [Paper here](https://github.com/Robert-Carlton/Drive-through-Simulation-Study/blob/main/README.md)
