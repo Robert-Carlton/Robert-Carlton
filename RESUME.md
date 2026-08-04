@@ -49,7 +49,7 @@ Client engagements have included (client identities generalized below to protect
 Recruited directly by the CEO to reverse declining performance and rebuild public trust for this ~$2B public agency — the 2nd largest commuter rail system in the U.S.; directed a 37-person marketing & communications organization on a sub-$500K departmental budget, overseeing marketing, branding, external communications and stakeholder engagement, P.R. & media, advertising & media buying, ticket services, web, social media, customer and passenger service, and design/printing services.
 
 - Rebuilt the agency's public narrative through a new brand identity, message platform, and sustained storytelling strategy — reversing years of negative coverage and repositioning the agency with riders, media, and legislators.
-- Transformed communications from a reactive, passive organization into a proactive External Communications and Stakeholder Engagement organization, moving public/media sentiment from -100% to -28%, a 70-point improvement.
+- Restructured the function into a proactive External Communications and Stakeholder Engagement organization, delivering a measurable sentiment turnaround from -100% to -28%, a 70-point improvement.
 - Reinvigorated the marketing organization with new campaigns, a new brand identity, and a new brand tagline, "Metra Makes Life Easier," based on consumer research — driving the 2nd highest ridership in agency history.
 - Implemented a process to accelerate new product development and fare-product innovation, introducing more new products than at any prior point in the agency's history; developed a cross-functional market planning process and instituted an annual customer research program.
 - Designed and launched a new-customer acquisition strategy built around branded ticket products tied to major sporting/entertainment events — a low-cost, low-risk trial mechanism converting non-riders into new customers — acquiring ~100,000 new riders annually and growing revenue.
@@ -64,13 +64,18 @@ Recruited directly by the CEO to reverse declining performance and rebuild publi
 - Built and executed a content and social media strategy across owned platforms — driving a 200% increase in Twitter followers and 78%+ growth in website traffic — and conceived the railroad industry's 1st live global safety broadcast; launched real-time broadcasting of Board meetings, increasing transparency six months ahead of a legislative deadline.
 - Consolidated Customer Service management into a single, centrally reporting organization and streamlined design/printing services; directed online enhancements including GTFS integration, real-time train tracker upgrades, and a transition to an ESRI mapping solution saving ~$1.2M annually.
 
-### Vice President / Director, Global Branding & Marketing Communications — Owens-Illinois, Inc. (O-I), Toledo, OH — 2010–2011
+### Vice President / Director, Global Branding & Marketing Communications — Owens-Illinois, Inc. (O-I), Toledo, OH — 2010
 
-Recruited for brand strategy & global campaign management expertise; led a 2-person global branding team against a $10M campaign budget for the #1 glass packaging manufacturer, with facilities in 21 countries and 22,000 employees.
+Recruited for brand strategy & global campaign management expertise; led a 2-person global branding team against a $10M campaign budget, personally architecting the campaign's operating model, governance, and market-by-market rollout for the #1 glass packaging manufacturer, with facilities in 21 countries and 22,000 employees.
 
-- Reframed the public narrative around glass packaging — from a commodity material to a story of presentation value, sustainability, and emotional appeal — through integrated messaging, media relations, and content across markets in 21 countries; launched new B2B packaging brands globally, including the acclaimed Vortex swirled-bottle product line.
-- Directed messaging, media relations, and content strategy for the multi-million-dollar "Glass Is Life" global campaign — a fully integrated storytelling effort across print, digital, social, and events reaching B2B and B2C audiences in 21 countries.
-- Directed messaging and stakeholder engagement strategy on strategic corporate initiatives (life cycle analysis); served as global interface for glass-related government & industry organizations, including FEVE (European Glass Packaging Federation) and GPI (Glass Packaging Institute).
+- Built the campaign's full operating infrastructure from the ground up — finalized the master services agreement and statement of work with the global agency, designed the campaign approval process and RACI across regional marketing teams, built a global marketing calendar, and established billing/invoicing spanning the agency, corporate, and all regions.
+- Led a competitive agency selection process narrowing 12 agencies to one — selecting a partner with global capabilities and presence in New York, Sydney, Paris, and Sao Paulo — then directed sequential onboarding of North American, European, Latin American, and Asia Pacific marketing teams onto the campaign, resolving channel conflicts with existing regional activity.
+- Led development of the multi-million-dollar "Glass Is Life" global brand campaign — brand strategy, pillars, messaging, and media planning across a fully integrated print, digital, social, online, and events program reaching B2B and B2C audiences in 21 countries.
+- Reframed the public narrative around glass packaging — from a commodity material to a story of presentation value, sustainability, and emotional appeal — and launched new B2B packaging brands globally, including the acclaimed Vortex swirled-bottle product line.
+- Developed a multi-factor investment framework weighting glass market share, O-I's own share, margin, and revenue impact to direct country-level campaign spending toward the highest-return markets.
+- Directed global stakeholder engagement and public policy strategy with industry and government organizations, including FEVE (European Glass Packaging Federation) and GPI (Glass Packaging Institute), leading advocacy in Brussels and Washington, D.C.
+- Designed and led O-I's Life Cycle Analysis (LCA) issues-management response system defending the company's sustainability claims against escalating media, competitor, and NGO challenges — a funnel/evaluate/respond/disseminate protocol tiered by media type — and personally developed technical response positions on specific scientific and data disputes.
+- Commissioned and directed a three-part global research program — qualitative creative testing, a ~500-respondent quantitative brand tracking study, and an employee engagement study — establishing a baseline ROI framework across attitudes, advocacy, and media effectiveness.
 
 ### Chief Marketing & Communications Officer / Founder — Zimini Inc. (A Microsoft® BizSpark® startup), Chicago, IL — 2006–2010
 
@@ -99,11 +104,13 @@ Recruited amid the "Super Size Me" controversy to direct U.S. external communica
 
 Recruited from the telecom industry to identify how Intel could enter the telecom sector and define Intel's software & silicon opportunities — leading teams of up to 15 across roles with budget responsibility up to $50M.
 
-- Led entry into the telecommunications sector — product roadmap, partner strategy, branding, positioning, and go-to-market execution — integrating marketing strategies across five business divisions.
-- Directed the narrative integration and external communications strategy for 18 acquired companies — aligning positioning, spokesperson materials, and media engagement into a single, coherent brand story under Intel during a fast-moving M&A period representing over $20B in acquisition cost.
+- Led entry into the telecommunications sector — product roadmap, partner strategy, branding, positioning, and go-to-market execution.
+- Authored Intel's CMG Communications Business Plan, the master messaging and positioning framework unifying brand architecture across Intel's four communications business units and a separate wireless computing group — each with distinct competitors, customers, and technical positioning — built from a large portfolio of acquired companies (including Dialogic, Level One, Trillium Digital Systems, VxTel, and Xircom) and organized around eight defined industry transitions to drive consistency across marketing, PR, analyst relations, and field marketing worldwide.
+- Led communications, media, and go-to-market integration for Intel's acquired communications companies (over $20B in acquisition cost, $7B in annual revenue) — spokesperson materials, investor-facing communications, and product-marketing integration across a complex, fast-growing portfolio; Intel reached the #3 position in communications silicon (Dataquest ranking) during this period.
 - Oversaw consumer marketing programs with a combined reach of 500M+, utilizing television, print, online, word-of-mouth, and event marketing.
 - At the direct request of then-CEO Andy Grove, built an executive speakers bureau for Intel's leadership team — partnering with former presidential speechwriters (Reagan and Bush administrations) to develop a C-level coaching and message-delivery program, then matching executives to thousands of industry speaking opportunities.
-- Built one of the earliest enterprise-wide CSR communications strategies at Intel — messaging on global community impact across environmental health & safety, education, community relations, diversity, and workforce practices (pillars that would later formalize into ESG) — aligning Intel's global marketing, communications, product, and government affairs teams worldwide.
+- Led a formal discovery and redesign of Intel's global executive keynote program — documenting a previously unmapped process of 200+ activities across 11 sub-processes spanning company keynotes and CEO-level Geo Tours, diagnosing chronic ownership ambiguity across 15+ stakeholder groups, and designing a formal governance model (the CAIRO decision framework) to replace ad hoc ownership with a repeatable, institutionalized process.
+- Built one of the earliest enterprise-wide CSR communications strategies at Intel — messaging on global community impact across environmental health & safety, education, community relations, diversity, and workforce practices (pillars that would later formalize into ESG) — incorporating direct content and executive buy-in from CEO Craig Barrett, President and COO Paul Otellini, and CTO Pat Gelsinger into a single master narrative.
 - Led "Marquee 100," a global program challenging Sun Microsystems' dominance of the internet infrastructure market — organizing Intel's assets by vertical, backed by global competitive intelligence and segment-specific marketing; Intel prevailed in the segment during this period, and Sun was later acquired by Oracle.
 - Enhanced the event planning process by creating a center of excellence for event planning and execution.
 
@@ -120,11 +127,12 @@ Began in the company's local phone service division marketing telecom service to
 
 ## Education
 
-- M.S., Analytics (Computational Data Analytics), Georgia Institute of Technology (2025)
+- M.S., Analytics, Georgia Institute of Technology (2025)
 - M.S., Strategic Communication, Purdue University Graduate School (2020)
 - B.S., Marketing, Missouri State University
 
 ## Professional Affiliations
 
 National Association of Government Communicators · Chief Marketing Officer Council · Chief Marketing Officer Club · Public Relations Society of America
+
 
