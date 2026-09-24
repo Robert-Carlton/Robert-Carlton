@@ -1,6 +1,8 @@
-I'm a marketing and communications executive with 25+ years of experience — including CMO/CCO-level roles at Intel, McDonald's, Owens-Illinois, and Metra — now paired with hands-on, graduate-level training in AI, machine learning, and analytics (M.S. Analytics, Georgia Tech).
+I'm a marketing and communications executive with 25+ years of experience across technology, consumer and public-sector organizations including Intel, McDonald's, Owens-Illinois and Metra, where I served as Chief Marketing & Communications Officer. That experience is now paired with hands-on, graduate-level work in AI, machine learning and analytics through an M.S. in Analytics from Georgia Tech and the projects documented below.
 
-That combination is rarer than it sounds. Most marketing/comms leaders who are fluent in AI and analytics came up through narrow, metrics-native tracks (SEO, paid acquisition, growth) without ever building full-spectrum brand, crisis, and stakeholder judgment. Most executives who have that full-spectrum judgment have never gotten hands-on with the technical side of AI. I spent the last few years deliberately building the second half — applied machine learning, generative AI, and agentic AI tooling — documented in the projects below.
+The combination is deliberate. My career has involved brand, reputation, crisis, stakeholder and executive communications at scale. Over the past several years, I've built the technical side as well—applied machine learning, generative AI, knowledge distillation, agentic systems and AI architecture.
+
+The objective isn't to turn a communications executive into a software engineer. It's to be able to understand the technologies reshaping organizations, interrogate technical and analytical claims intelligently, work credibly with technical teams, and translate complex systems into decisions and communications that executives and external stakeholders can actually use.
 
 ## 🤝 How I Can Help
 
